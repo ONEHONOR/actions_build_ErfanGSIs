@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://up.ly93.cc/down/VP9LKIM867LZyLcf.zip
-  ROM_NAME: MIUI
+  ROM_URL: https://download.h2os.com/OnePlus6/OPEN/OnePlus6Hydrogen_22.Y.75_OTA_0750_all_2106301541_3b3e5419e08f468f.zip
+  ROM_NAME: H2OS
   TZ: Asia/Shanghai
 
 jobs:
